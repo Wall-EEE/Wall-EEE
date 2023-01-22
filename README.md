@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Wall-EEE
 - 👀 I’m interested in Frontend codeing with python backend
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me @aWalle
+- 🤖www.Walle-3.com
 
 <!---
 Wall-EEE/Wall-EEE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
