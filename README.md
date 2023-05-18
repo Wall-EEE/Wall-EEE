@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wall-EEE
-- 👀 I’m interested in Frontend codeing with python backend
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me @aWalle
+- 👀 I’m interested in Fullstack codeing with node
+- 🌱 I’m currently learning Typescript
+- 💞️ I’m looking to collaborate on notion and figma
+- 📫 adriwal3@gmail.com
 - 🤖www.Walle-3.com
