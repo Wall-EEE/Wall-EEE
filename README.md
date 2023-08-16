@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wall-EEE
-- 👀 I’m interested in Fullstack codeing with node
+- 👀 I’m interested in Fullstack development and AI
 - 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on notion and figma
 - 📫 adriwal3@gmail.com
