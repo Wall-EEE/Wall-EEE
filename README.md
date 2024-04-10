@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Wall-EEE
 - 👀 I’m interested in Fullstack development and AI
-- 🌱 I’m currently learning Typescript
-- 💞️ I’m looking to collaborate on notion and figma
+- 🌱 I’m currently programing .net and C#
 - 📫 adriwal3@gmail.com
 - 🤖www.Walle-3.com
